@@ -1,0 +1,12 @@
+skin    browser         cliqzTheme   chrome/browser/
+skin    communicator    cliqzTheme   chrome/communicator/
+skin    global          cliqzTheme   chrome/global/
+skin    mozapps         cliqzTheme   chrome/mozapps/
+
+
+skin ostarget cliqzTheme chrome/ostarget/general/
+skin ostarget cliqzTheme chrome/ostarget/darwin/ os=Darwin
+
+skin osbrowser cliqzTheme chrome/ostarget/general/
+skin osbrowser cliqzTheme chrome/ostarget/darwin/ os=Darwin
+skin osbrowser cliqzTheme chrome/ostarget/win/ os=WINNT
